@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29709.97
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimeReader", "AimeReader\AimeReader.csproj", "{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestCpp", "TestCpp\TestCpp.vcxproj", "{3E86A2D7-6CE0-4EF7-9E62-0AC838366BFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimeReaderGUI", "AimeReaderGUI\AimeReaderGUI.csproj", "{12BDA374-726D-4B94-B6B3-242EC577F75C}"
@@ -19,18 +17,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|x64.Build.0 = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Debug|x86.Build.0 = Debug|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|x64.ActiveCfg = Release|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|x64.Build.0 = Release|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|x86.ActiveCfg = Release|Any CPU
-		{C3E215F3-52AE-46AA-A6FF-99242AE6BCCA}.Release|x86.Build.0 = Release|Any CPU
 		{3E86A2D7-6CE0-4EF7-9E62-0AC838366BFC}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{3E86A2D7-6CE0-4EF7-9E62-0AC838366BFC}.Debug|x64.ActiveCfg = Debug|x64
 		{3E86A2D7-6CE0-4EF7-9E62-0AC838366BFC}.Debug|x64.Build.0 = Debug|x64
